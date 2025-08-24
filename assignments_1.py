@@ -1,5 +1,5 @@
 
-print("Name: Muhammad Sami\nFather:\nDOB 26/12/2006")
+print("Name: Muhammad Sami\nFather:Muhammad Hafeez\nDOB: 26/12/2006")
 
 name = "Muhammad Sami"
 age3 = 18
